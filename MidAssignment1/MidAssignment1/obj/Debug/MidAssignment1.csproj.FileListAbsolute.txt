@@ -1,0 +1,7 @@
+F:\c#\Mid-Lab-Assignment-1\MidAssignment1\MidAssignment1\bin\Debug\MidAssignment1.exe.config
+F:\c#\Mid-Lab-Assignment-1\MidAssignment1\MidAssignment1\bin\Debug\MidAssignment1.exe
+F:\c#\Mid-Lab-Assignment-1\MidAssignment1\MidAssignment1\bin\Debug\MidAssignment1.pdb
+F:\c#\Mid-Lab-Assignment-1\MidAssignment1\MidAssignment1\obj\Debug\MidAssignment1.csprojAssemblyReference.cache
+F:\c#\Mid-Lab-Assignment-1\MidAssignment1\MidAssignment1\obj\Debug\MidAssignment1.csproj.CoreCompileInputs.cache
+F:\c#\Mid-Lab-Assignment-1\MidAssignment1\MidAssignment1\obj\Debug\MidAssignment1.exe
+F:\c#\Mid-Lab-Assignment-1\MidAssignment1\MidAssignment1\obj\Debug\MidAssignment1.pdb
