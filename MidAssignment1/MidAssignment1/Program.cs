@@ -7,8 +7,8 @@ namespace MidAssignment1
 
         static int AccountNumberGen(int inc)
         {
-            int start = 500;
-            int accNum = start + inc;
+            int AccNumStart = 500;
+            int accNum = AccNumStart + inc;
             return accNum;
         }
         static void Main(string[] args)

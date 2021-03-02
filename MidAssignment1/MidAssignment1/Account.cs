@@ -58,6 +58,7 @@ namespace MidAssignment1
                 {
                     Console.WriteLine("Account found!!");
                     Bank.myBank[i].Balance = Bank.myBank[i].Balance - amount;
+                    Console.WriteLine("Withdraw successfull!");
                     Console.WriteLine("Your Current Balance is: " + Bank.myBank[i].Balance);
                     break;
                 }
